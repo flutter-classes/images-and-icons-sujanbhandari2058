@@ -1,12 +1,30 @@
 # insta_profile
 
-A new Flutter project.
+A first Flutter project.
 
-## Getting Started
+## Assignments Requirement
 
-This project is a starting point for a Flutter application.
+- Use flutter_vector_icons package and  , use the custom icons.  (https://pub.dev/packages/flutter_vector_icons). 
+The name  and ui of the icons can be found here: https://oblador.github.io/react-native-vector-icons/
 
-A few resources to get you started if this is your first Flutter project:
+- Download svg ioncs/files and try to render them in you flutter app.  Download icons from here: https://icons8.com/icons/set/home. Svg icons have the file extensions (.svg). 
+Use this package: https://pub.dev/packages/flutter_svg
+
+- Cache the images using the package cached_network_image.  Search the packge yourself in pub.dev
+
+
+# My Work
+
+![](https://i.ibb.co/LSdhCbz/Screenshot-1654506904.png)
+
+
+
+
+
+
+
+
+
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
