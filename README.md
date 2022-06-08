@@ -13,6 +13,6 @@ Use this package: https://pub.dev/packages/flutter_svg
 - Cache the images using the package cached_network_image.  Search the packge yourself in pub.dev
 
 
-# My Work
+# My Resule
 
-![](https://i.ibb.co/LSdhCbz/Screenshot-1654506904.png){ width=50% }
+![](https://i.ibb.co/LSdhCbz/Screenshot-1654506904.png)
